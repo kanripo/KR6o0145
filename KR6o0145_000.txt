@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 賓頭盧突羅闍為優陀延王說法經
+#+DATE: 2015-08-30 21:01:42.568417
+#+PROPERTY: JUAN 0
